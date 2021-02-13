@@ -41,7 +41,7 @@
 
 ### Spotify Playing:
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />]()
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://github.com/hash-bash/hash-bash)
 
 <br />
 
