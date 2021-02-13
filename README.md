@@ -39,7 +39,7 @@
 
 <br />
 
-### Spotify Playing 🎧
+### Spotify Playing:
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />]()
 
