@@ -1,24 +1,17 @@
 ### Hi there, How is it going? 👋
-
 ## I'm Saurabh, a Developer, Student, Adventurer and Tech-Enthusiast
-
  - I am pursuing my Bachelor's degree in Computer Engineering at the `Army Institute of Technology, Pune`
  - I’m currently exploring the `web development` frameworks (Full-Stack: AngularJS, ExpressJS, ReactJS, Django)
  - I’m looking to collaborate with other content creators
  - 2021 Goals: Contribute more to Open Source projects
-
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
-
 <code>[<img alt="LinkedIn | LinkedIn" width="30px" src="https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png" />][linkedin]</code>
 <code>[<img alt="Portfolio" width="30px" src="https://www.iconsdb.com/icons/preview/gray/globe-4-xxl.png" />][website]</code>
 <code>[<img alt="Facebook" width="30px" src="https://www.iconsdb.com/icons/preview/gray/facebook-3-xxl.png" />][facebook]</code>
 <code>[<img alt="Instagram" width="30px" src="https://www.iconsdb.com/icons/preview/gray/instagram-xxl.png" />][instagram]</code>
 <code>[<img alt="YouTube" width="30px" src="https://www.iconsdb.com/icons/preview/gray/youtube-xxl.png" />][youtube]</code>
-
 <br />
-
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
-
 <code><img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
 <code><img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" /></code>
 <code><img alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
@@ -37,18 +30,12 @@
 <code><img alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
 <code><img alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></code>
 <br />
-
 ## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
-
 <img alt="Saurabh Domes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-bash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 45%/>
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-bash&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" width = 45% />
-
 <br />
-
 ## ꜱᴘᴏᴛɪꜰʏ ᴘʟᴀʏɪɴɢ:
-
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://github.com/hash-bash)
-
 
 [linkedin]: https://in.linkedin.com/in/saurabh-dome
 [website]: https://codeSTACKr.com
