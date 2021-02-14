@@ -1,12 +1,11 @@
-### Hi there, I'm Saurabh! 👋
+### Hi there, How is it going? 👋
 
-## I'm a Student, Developer, Adventurer and Tech-Enthusiast
+## I'm Saurabh, a Developer, Student, Adventurer and Tech-Enthusiast
 
-- 🔭 I do 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ I am pursuing my Bachelor's degree in Computer Engineering at the Army Institute of Technology, Pune
+- ⚡ I’m currently exploring the web development frameworks (Full-Stack: AngularJS, ExpressJS, ReactJS, Django)
+- ⚡ I’m looking to collaborate with other content creators
+- ⚡ 2021 Goals: Contribute more to Open Source projects
 
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
 
@@ -36,6 +35,7 @@
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 
 <br />
 
@@ -43,7 +43,6 @@
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-<br />
 <br />
 
 ## ꜱᴘᴏᴛɪꜰʏ ᴘʟᴀʏɪɴɢ:
@@ -56,4 +55,3 @@
 [facebook]: https://www.facebook.com/saurabh.dome
 [youtube]: https://www.youtube.com/channel/UC_04a0u29P4C59DvMLS2ViA
 [instagram]: https://www.instagram.com/_x.saurabh.x_
-
