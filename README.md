@@ -41,7 +41,7 @@
 
 ## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
 
-<img align="left" alt="Saurabh Domes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-bash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&box_width=30" />
+<img align="left" alt="Saurabh Domes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-bash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&width=100%" />
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-bash&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 <br />
