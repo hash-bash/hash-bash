@@ -37,7 +37,7 @@
 <br />
 
 ## ꜱᴘᴏᴛɪꜰʏ ᴘʟᴀʏɪɴɢ:
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>]("https://github.com/hash-bash")
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/hash-bash)
 
 [linkedin]: https://in.linkedin.com/in/saurabh-dome
 [website]: https://codeSTACKr.com
