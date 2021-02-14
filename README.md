@@ -8,7 +8,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
+## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png" />][linkedin]
 [<img align="left" alt="codeSTACKr.com" width="30px" src="https://www.iconsdb.com/icons/preview/gray/globe-4-xxl.png" />][website]
@@ -18,7 +18,7 @@
 
 <br />
 
-### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
+## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -39,11 +39,11 @@
 
 <br />
 
-### ꜱᴘᴏᴛɪꜰʏ ᴘʟᴀʏɪɴɢ:
+## ꜱᴘᴏᴛɪꜰʏ ᴘʟᴀʏɪɴɢ:
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://github.com/hash-bash)
 
-### ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
+## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
