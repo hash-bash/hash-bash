@@ -14,7 +14,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.iconsdb.com/icons/preview/gray/globe-4-xxl.png" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/gray/facebook-3-xxl.png" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://www.iconsdb.com/icons/preview/gray/instagram-xxl.png" />][instagram]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.iconsdb.com/icons/preview/gray/youtube-3-xxl.png" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.iconsdb.com/icons/preview/gray/youtube-xxl.png" />][youtube]
 
 <br />
 
