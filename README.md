@@ -38,7 +38,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width=45%/>](https://github.com/hash-bash)
 
 [linkedin]: https://in.linkedin.com/in/saurabh-dome
-[website]: https://codeSTACKr.com
+[website]: https://github.com/hash-bash
 [facebook]: https://www.facebook.com/saurabh.dome
 [youtube]: https://www.youtube.com/channel/UC_04a0u29P4C59DvMLS2ViA
 [instagram]: https://www.instagram.com/_x.saurabh.x_
