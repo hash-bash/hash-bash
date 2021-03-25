@@ -1,4 +1,4 @@
-### Hi there, How is it going? <img height= 25px src ="https://media1.tenor.com/images/f38bd4f0ae23b4d7d594c388ab4f09ed/tenor.gif?itemid=12359359">
+### Hi there, How is it going? <img height= 25px src ="https://i.gifer.com/yB.gif">
 ## I'm Saurabh, a Developer, Student, Adventurer and Tech-Enthusiast
  - I am pursuing my Bachelor's degree in Computer Engineering at the `Army Institute of Technology, Pune`
  - I’m currently exploring the `web development` frameworks (Full-Stack: AngularJS, ExpressJS, ReactJS, Django)
