@@ -1,7 +1,7 @@
 ### Hi there, How is it going? 👋🏻
 ## I'm Saurabh, a Developer, Student, Adventurer and Tech-Enthusiast
  - I am pursuing my Bachelor's degree in Computer Engineering at the `Army Institute of Technology, Pune`
- - I’m currently exploring the `web development` frameworks (Full-Stack: AngularJS, ExpressJS, ReactJS, Django)
+ - I’m currently exploring the `Web Development` frameworks (Full-Stack: AngularJS, ExpressJS, ReactJS, Django)
  - I’m looking to collaborate with other content creators
  - 2021 Goals: Contribute more to Open Source projects
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
