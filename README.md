@@ -39,8 +39,8 @@
 [<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-bash&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
 <br />
 
-[linkedin]: https://in.linkedin.com/in/saurabh-dome
+[linkedin]: https://linkedin.com/in/saurabh-dome
 [website]: https://github.com/hash-bash
-[facebook]: https://www.facebook.com/saurabh.dome
-[youtube]: https://www.youtube.com/channel/UC_04a0u29P4C59DvMLS2ViA
-[instagram]: https://www.instagram.com/_x.saurabh.x_
+[facebook]: https://facebook.com/saurabh.dome
+[youtube]: https://youtube.com/channel/UC_04a0u29P4C59DvMLS2ViA
+[instagram]: https://instagram.com/_x.saurabh.x_
