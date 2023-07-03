@@ -3,7 +3,7 @@
  - I am studying Computer Science (Master's) at the `University of Freiburg`
  - I’m currently exploring the `Web Development` frameworks (MERN Stack)
  - I’m looking to collaborate with other content creators
-<br />
+ - 2023 Goals: Contribute more to Open Source projects
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
 <code>[<img alt="LinkedIn | LinkedIn" width="30px" src="https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png" />][linkedin]</code>
 <code>[<img alt="Portfolio" width="30px" src="https://www.iconsdb.com/icons/preview/gray/globe-4-xxl.png" />][website]</code>
