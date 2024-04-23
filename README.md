@@ -1,5 +1,5 @@
 ### Hi there, How is it going? 👋🏻
-## I'm Saurabh, a Developer, Student, Tech-Enthusiast and Adventurer
+## I'm Saurabh, a Developer, Student, Tech-Enthusiast, and Adventurer
 
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
 <code>[<img alt="LinkedIn | LinkedIn" width="30px" src="https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png" />][linkedin]</code>
