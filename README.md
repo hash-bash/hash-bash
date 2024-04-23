@@ -1,15 +1,12 @@
 ### Hi there, How is it going? 👋🏻
-## I'm Saurabh, a Developer, Student, Adventurer and Tech-Enthusiast
- - I am studying Computer Science (Master's) at the `University of Freiburg`
- - I’m currently exploring the `Web Development` frameworks (MERN Stack)
- - I’m looking to collaborate with other content creators
- - 2023 Goals: Contribute more to Open Source projects
+## I'm Saurabh, a Developer, Student, Tech-Enthusiast and Adventurer
+
 ## ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:
 <code>[<img alt="LinkedIn | LinkedIn" width="30px" src="https://www.iconsdb.com/icons/preview/gray/linkedin-3-xxl.png" />][linkedin]</code>
-<code>[<img alt="Portfolio" width="30px" src="https://www.iconsdb.com/icons/preview/gray/globe-4-xxl.png" />][website]</code>
 <code>[<img alt="Facebook" width="30px" src="https://www.iconsdb.com/icons/preview/gray/facebook-3-xxl.png" />][facebook]</code>
 <code>[<img alt="Instagram" width="30px" src="https://www.iconsdb.com/icons/preview/gray/instagram-xxl.png" />][instagram]</code>
 <code>[<img alt="YouTube" width="30px" src="https://www.iconsdb.com/icons/preview/gray/youtube-xxl.png" />][youtube]</code>
+<code>[<img alt="Portfolio" width="30px" src="https://www.iconsdb.com/icons/preview/gray/globe-4-xxl.png" />][website]</code>
 <br />
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 <code><img alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
@@ -39,8 +36,8 @@
 [<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-bash&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
 <br />
 
-[linkedin]: https://linkedin.com/in/saurabh-dome
+[linkedin]: https://linkedin.com/in/saurabhdome
 [website]: https://github.com/hash-bash
-[facebook]: https://facebook.com/saurabh.dome
-[youtube]: https://youtube.com/channel/UC_04a0u29P4C59DvMLS2ViA
+[facebook]: https://facebook.com/saurabhdome
+[youtube]: https://youtube.com/@saurabhdome
 [instagram]: https://instagram.com/_x.saurabh.x_
