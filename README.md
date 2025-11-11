@@ -40,4 +40,4 @@
 [website]: https://github.com/hash-bash
 [facebook]: https://facebook.com/saurabhdome
 [youtube]: https://youtube.com/@saurabhdome
-[instagram]: https://instagram.com/_x.saurabh.x_
+[instagram]: https://instagram.com/saurabhdome
