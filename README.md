@@ -31,10 +31,6 @@
 <code><img alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /></code>
 <code><img alt="TensorFlow" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/></code>
 <br />
-## ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ:
-[<img alt="Saurabh Domes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hash-bash&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
-[<img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-bash&hide=jupyter%20notebook&layout=compact&how_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" height = 150px/>](https://github.com/hash-bash)
-<br />
 
 [linkedin]: https://linkedin.com/in/saurabhdome
 [website]: https://github.com/hash-bash
